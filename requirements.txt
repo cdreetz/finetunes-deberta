@@ -1,4 +1,6 @@
-numpy
-datasets
-transformers
-sklearn
+torch==2.0.1
+numpy==1.25.2
+transformers==4.44.1
+datasets==2.21.0
+sklearn==0.23.2
+wandb==0.17.7
