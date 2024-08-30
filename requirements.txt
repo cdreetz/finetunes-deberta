@@ -1,4 +1,7 @@
 numpy
 datasets
 transformers
-sklearn
+scikit-learn
+sentencepiece
+protobuf
+torch
