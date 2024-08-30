@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 numpy
 datasets
 transformers
@@ -5,3 +6,15 @@ scikit-learn
 sentencepiece
 protobuf
 torch
+=======
+torch==2.0.1
+numpy==1.25.2
+transformers==4.44.1
+datasets==2.21.0
+sentencepiece==0.2.0
+accelerate==0.33.0
+sklearn==0.23.2
+
+
+wandb==0.17.7
+>>>>>>> 26e89d99dc5fbf81081fc597416de30627011033

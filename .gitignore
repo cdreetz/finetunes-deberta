@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 env/
 .env
 __pycache__/
+=======
+wandb/
+checkpoints/
+env/
+.env
+>>>>>>> 26e89d99dc5fbf81081fc597416de30627011033
